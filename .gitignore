@@ -1,0 +1,58 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# -----------------------------
+# Virtual Environments
+# -----------------------------
+real_estate_env/
+env/
+venv/
+.venv/
+
+# -----------------------------
+# Jupyter Notebook
+# -----------------------------
+.ipynb_checkpoints
+
+# -----------------------------
+# Data files (optional)
+# -----------------------------
+dataset/*.csv
+dataset/*.xlsx
+dataset/*.xls
+
+# If you want to keep dataset folder but ignore files
+!dataset/.gitkeep
+
+# -----------------------------
+# VS Code
+# -----------------------------
+.vscode/
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+
+# -----------------------------
+# OS files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Python packaging
+# -----------------------------
+build/
+dist/
+*.egg-info/
+
+# -----------------------------
+# Environment variables
+# -----------------------------
+.env
