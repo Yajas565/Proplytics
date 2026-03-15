@@ -19,12 +19,7 @@ venv/
 # -----------------------------
 .ipynb_checkpoints
 
-# -----------------------------
-# Data files (optional)
-# -----------------------------
-dataset/*.csv
-dataset/*.xlsx
-dataset/*.xls
+
 
 # If you want to keep dataset folder but ignore files
 !dataset/.gitkeep
